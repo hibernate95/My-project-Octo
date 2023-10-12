@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e072c26add1d43e498272b77e58ebfd8, type: 3}
   m_Name: MoveCardData
   m_EditorClassIdentifier: 
+  CardType: 1
   spellName: Move
   spellDescription: "\uD55C \uCE78 \uC774\uB3D9\uD55C\uB2E4."
   manaCost: 0
   movementDistance: 1
-  canFly: 0

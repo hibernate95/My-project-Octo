@@ -10,8 +10,16 @@ public class CardSO : ScriptableObject
 {
     [Header("Card Info")]
 
+    public CardType CardType;
     public string spellName;
     public string spellDescription;
     public int manaCost;
     
+}
+
+public enum CardType
+{
+    Resource,
+    Move,
+    Magic
 }

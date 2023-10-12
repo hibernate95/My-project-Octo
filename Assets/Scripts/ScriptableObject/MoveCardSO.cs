@@ -7,5 +7,5 @@ public class MoveCardSO : CardSO
 {
     [Header("Move Card Info")]
     public int movementDistance; // 이동 카드의 이동 거리
-    public bool canFly; // 날 수 있는 카드 여부
+    //public bool canFly; // 날 수 있는 카드 여부
 }
